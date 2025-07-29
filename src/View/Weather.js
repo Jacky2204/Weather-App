@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import "./Weather.css";
-import wind from "./../assets/windmill-removebg-preview (1).png"
 
 export default function Weather() {
 

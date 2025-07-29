@@ -11,7 +11,7 @@
 
 
 .background-cloudy {
-    background: url("https://wallpaperaccess.com/full/1575262.jpg") no-repeat center;
+    background: url("./../assets/cloudy.jpg") no-repeat center;
     background-size: cover;
     margin: 0;
     position: absolute;
@@ -20,7 +20,7 @@
 }
 
 .background-rain {
-    background: url("https://images.pexels.com/photos/612341/pexels-photo-612341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat center;
+    background: url("./../assets/rain.jpeg") no-repeat center;
     background-size: cover;
     margin: 0;
     position: absolute;
@@ -39,7 +39,7 @@
 
 
 .background-sunny {
-    background: url("https://www.hdwallpapers.in/walls/sunny_day-wide.jpg") no-repeat center;
+    background: url("./../assets/sunny_day-wide.webp") no-repeat center;
     background-size: cover;
     margin: 0;
     position: absolute;
