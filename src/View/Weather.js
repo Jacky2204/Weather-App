@@ -1,9 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import "./Weather.css";
-// import wind from "./wind-turbine.gif"
-// import Card from "../Component/Card";
-// import cloud from "./"
+import wind from "./../assets/windmill-removebg-preview (1).png"
 
 export default function Weather() {
 
@@ -87,7 +85,7 @@ export default function Weather() {
                 {weather &&
                     <div className="cards">
                         <div className="card">
-                            {/* <img src={wind} alt="" className="wind" /> */}
+                            {/* <img src={wind} alt="" className="wind"/> */}
                             <p className="info color">{weather.current.wind_kph} kph <br /><br />
                                 <span className="heading">Wind</span></p>
                         </div>
