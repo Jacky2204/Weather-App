@@ -8,6 +8,8 @@
 
 } */
 
+
+
 .background-cloudy {
     background: url("https://wallpaperaccess.com/full/1575262.jpg") no-repeat center;
     background-size: cover;
@@ -27,7 +29,7 @@
 }
 
 .background-rain .color {
-    
+    color: rgb(209, 27, 27);
 }
 
 .background-rain .bg-ip {
@@ -45,7 +47,7 @@
     width: 100vw;
 }
 
-.background-sunny .color{
+.background-sunny .color{ 
     color: white;
 }
 
